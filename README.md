@@ -4,18 +4,19 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%2B+React+Developer;Building+Smart+Business+Solutions;Loves+Learning+New+Tech+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%2B+React+Developer; Building+Smart+Business+Solutions ; Loves+Learning+New+Tech+Everyday" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on: **Full-Stack Cloth Business Management System**  
-- 🌱 Currently learning: **Charts, Dashboards & Business Reporting using Laravel + Inertia + React**  
-- 🧠 Always exploring: **New ways to make business solutions smarter**  
-- 💬 Ask me about: **Laravel, React, Inertia, Tailwind, Billing Systems, and Dashboards**  
+- 🔨 I love building full-stack web applications that solve real-world problems  
+- 🌐 I specialize in crafting smart, modern, and scalable business solutions  
+- 💡 Always exploring new tools, technologies, and creative ideas  
+- 💬 Ask me about: **Laravel, React, Inertia, Tailwind CSS, APIs, Dashboards, and Billing Systems**  
 - 📫 Reach me at: **anasfurqan643@gmail.com**  
-- ⚡ Fun fact: **I treat every project like it's my own startup 💼**
+- ⚡ Fun fact: **I treat every project like a real product — with focus, polish, and performance 💼**
+
 
 ---
 
