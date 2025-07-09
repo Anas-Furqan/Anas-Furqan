@@ -4,7 +4,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%2B+React+Developer; Building+Smart+Business+Solutions ; Loves+Learning+New+Tech+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%2B+React+Developer;Building+Smart+Business+Solutions;Loves+Learning+New+Tech+Everyday" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anas-furqan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Anas GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-furqan&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=anas-furqan&theme=tokyonight&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-furqan&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
