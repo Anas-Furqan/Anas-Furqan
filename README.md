@@ -10,4 +10,4 @@
 - ⚡ Fun fact: **I love building real-world business solutions**
 
 ### 📈 GitHub Stats
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasfurqan&show_icons=true&theme=radical)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anas-furqan&show_icons=true&theme=radical)
