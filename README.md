@@ -33,10 +33,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anas-furqan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Anas GitHub stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=anas-furqan&theme=tokyonight&hide_border=false" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-furqan&layout=compact&theme=tokyonight&hide_border=false" />
+  <br />
+  <img src="https://img.shields.io/badge/Code%20Streak-Keeping%20it%20hot🔥-red?style=for-the-badge" />
 </p>
+
 
 ---
 
